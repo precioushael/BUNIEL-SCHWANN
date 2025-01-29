@@ -1,0 +1,8 @@
+  1. Python Flower Project
+
+  	2. The purpose of my project is to enhace and develop my coding skills. By practicing coding loops such as, loops, functions, etc. As I was creating my code I had some troubles however, it was a fun and motivational experience. 
+    My project is all about a  vibrant, spiraling flower with a black background and smooth color transitions. The project involves drawing shapes that repeat and overlap to create a flower-like pattern. 
+    As the drawing progresses, the colors change slowly by adjusting the hue in the HSV color model, creating a rainbow effect. It's a fun project that shows how loops, colors, and shapes can be used in programming to make something visually interesting.
+
+    3. The program uses turtle to draw flower petals with changing colors by gradually adjusting the hue value in the HSV color model for each shape drawn. 
+    To run my program first you need to open the file that was used to save my code after that the only thing you need to do is to press the run button and find the "Run without debbuging button" and it will automatically run the code.
