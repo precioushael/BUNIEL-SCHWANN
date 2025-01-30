@@ -1,12 +1,14 @@
   1. Python Flower Project
 
-  	2. The purpose of my project is to enhace and develop my coding skills. By practicing coding loops such as, loops, functions, etc. create a flower-like pattern. 
+  	2. What is the purpose of your project? Tell about your project.
+    The purpose of my project is to enhace and develop my coding skills. By practicing coding loops such as, loops, functions, etc. create a flower-like pattern. 
     As the drawing progresses, the colors change slowly by adjusting the hue in the HSV color model, creating a rainbow effect. It's a fun project that shows how loops, colors, etc. It lets me get creative, 
     improve problem-solving with patterns, and learn about colors. This project is motivating because I can see the results right away, making coding more fun and helping me improve my skills 
     My project is all about a  vibrant, spiraling flower with a black background and smooth color transitions. The project involves drawing shapes that repeat and overlap to  and shapes can be used in programming 
     to make something visually interesting.
 
-    3. The program uses the turtle graphics library to draw flower-like shapes, where each petal’s color changes slowly by adjusting a value called "hue" in the HSV color system as the drawing progresses, 
+    3. How does your program work? Explain how to run your code.
+    The program uses the turtle graphics library to draw flower-like shapes, where each petal’s color changes slowly by adjusting a value called "hue" in the HSV color system as the drawing progresses, 
     creating a smooth color transition. The hue controls the color, and as it increases after each shape, the color shifts through the rainbow, making each petal a different color. 
-    If you want to run my program first you need to open the file that was used to save my code after that the only thing you need to do is to press the run button and 
+    If you want to run my program first you need download Python and Code Runner after that you need to open the file that was used to save my code after that the only thing you need to do is to press the run button and 
     find the "Run without debbuging button" and it will automatically run the code.
